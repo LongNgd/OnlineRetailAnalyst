@@ -32,7 +32,7 @@ Dự án này sử dụng bộ dữ liệu **Online Retail** từ [UCI Machine L
 ---
 
 ## Công cụ sử dụng
-- **SQL**: Truy xuất và xử lý dữ liệu thô.
+- **Excel**: Xử lý dữ liệu thô.
 - **Power BI**: Trực quan hóa dữ liệu và xây dựng dashboard.
 - **PowerPoint**: Trình bày kết quả phân tích.
 
